@@ -37,14 +37,6 @@ pipeline {
 	  }
          }
     }
-    stage('Build Container Image') {
-    }
-    stage('Tag Container Image') {
-    }
-    stage('Push Container Image') {
-    }
-    stage('Run Container') {
-    }
   }
 }
 
